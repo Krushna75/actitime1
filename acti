@@ -3,4 +3,6 @@ driver.findelementname
 driver.findelementtagname
 driver.findelementlinktext
 driver.findelementpartiallinktext
-driver.findelementjava
+driver.findelementclassnam
+driver.findelementcss
+driver.findelementxpath
