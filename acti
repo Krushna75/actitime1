@@ -6,7 +6,3 @@ driver.findelementpartiallinktext
 driver.findelementclassnam
 driver.findelementcss
 driver.findelementxpath
-ChromeDriver driver=new ChromeDriver();
-WebDriver driver=new ChromeDriver();
-<head>
-</head>
