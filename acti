@@ -5,4 +5,3 @@ driver.findelementlinktext
 driver.findelementpartiallinktext
 driver.findelementclassnam
 driver.findelementcss
-driver.findelementxpath
